@@ -4,7 +4,7 @@ class Plane:
     passengers, and flight status.
     """
 
-    def __init__(self, name, capacity, speed, passengers=None, is_flying=False):
+    def __init__(self, name="Unknown", capacity=0, speed=0, passengers=None, is_flying=False):
         """
         Initializes the plane with the provided name, capacity, 
         speed, passengers, and flight status.

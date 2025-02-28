@@ -1,0 +1,10 @@
+Boeing 747 - Capacity: 410 passengers
+Airbus A380 - Capacity: 850 passengers
+Concorde - Capacity: 100 passengers
+Boeing 737 - Capacity: 230 passengers
+Airbus A320 - Capacity: 180 passengers
+McDonnell Douglas MD-11 - Capacity: 285 passengers
+Lockheed Martin C-130 Hercules - Capacity: 92 passengers
+Embraer E195 - Capacity: 124 passengers
+Bombardier CRJ200 - Capacity: 50 passengers
+Cessna Citation X - Capacity: 12 passengers
