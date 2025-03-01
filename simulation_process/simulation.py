@@ -4,9 +4,13 @@ from typing import List
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from data import generate_fake_passengers, random_passenger_count
 from plane_data import get_random_plane
 from plane_project import Plane
+from data import (
+    generate_fake_passengers, 
+    random_passenger_count,
+    max_speed
+)
 
 
 plane_name, plane_capacity = get_random_plane()
@@ -31,3 +35,5 @@ def display_boarded_passengers(plane: Plane) -> None:
 # Board passengers and display the list
 board_passengers(plane, passenger_names)
 display_boarded_passengers(plane)
+print(plane.increase_speed())
+print(plane.decrease_speed())
