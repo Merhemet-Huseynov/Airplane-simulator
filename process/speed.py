@@ -1,10 +1,14 @@
 import sys
 import os
 import time
+import logging
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
+from logging_info.logging_config import setup_logging
 from data import max_speed
+
+setup_logging()
 
 def clear_terminal():
     if os.name == "nt":
@@ -23,6 +27,7 @@ class SpeedOperations:
         """
         target_speed = max_speed()
         plane.is_flying = False
+        logging.info(f"Starting to increase speed to {target_speed} km/h.")
         while plane.speed < target_speed:
             clear_terminal()
             if plane.speed >= 200 and not plane.is_flying:
@@ -30,7 +35,7 @@ class SpeedOperations:
                 print(f"The plane took off. Speed: {plane.speed} km/h")
             plane.speed += 9
             plane.current_status()
-            time.sleep(0.5)
+            time.sleep(0.3)
         
         print(f"Target speed of {target_speed} km/h reached!")
         # After reaching the max speed, start decreasing the speed
@@ -42,6 +47,7 @@ class SpeedOperations:
         Decreases the speed of the plane until it reaches 0 km/h.
         If the speed goes below 200 km/h and the plane is flying, it lands.
         """
+        logging.info("Starting to decrease speed.")
         while plane.speed > 0:
             clear_terminal()
             plane.speed -= 9
@@ -50,5 +56,6 @@ class SpeedOperations:
                 print(f"The plane landed. Speed: {plane.speed} km/h")
             print(f"Speed: {plane.speed} km/h")
             plane.current_status()
-            time.sleep(0.5)
+            time.sleep(0.3)
+        logging.info(f"Speed decreased to {plane.speed} km/h.")
         return f"Speed decreased to {plane.speed} km/h"

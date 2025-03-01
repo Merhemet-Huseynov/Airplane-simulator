@@ -1,0 +1,412 @@
+2025-03-01 18:46:54,972 - INFO - Generated 48 fake passenger names.
+2025-03-01 18:46:54,972 - INFO - Plane capacity: 92. Generated random passenger count: 79
+2025-03-01 18:46:55,019 - INFO - Generated 79 fake passenger names.
+2025-03-01 18:46:55,019 - INFO - Joel Bates boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Joel Bates boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Nicole Bond boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Nicole Bond boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Taylor Hodges MD boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Taylor Hodges MD boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Kayla Gibbs boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Kayla Gibbs boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Brianna Ibarra boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Brianna Ibarra boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Aaron Hernandez boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Aaron Hernandez boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Amanda Cooper boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Amanda Cooper boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Peter Hinton boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Peter Hinton boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Andrew Aguilar boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Andrew Aguilar boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Daniel Smith boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Daniel Smith boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Scott Kline boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Scott Kline boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Brenda Soto boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Brenda Soto boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Cynthia Carr boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Cynthia Carr boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Ashley Sherman boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Ashley Sherman boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Christopher Foley boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Christopher Foley boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Matthew Scott boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Matthew Scott boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Curtis Kim boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Curtis Kim boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Richard Skinner boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Richard Skinner boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Randy Simmons boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Randy Simmons boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Brandon Howard boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Brandon Howard boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Andrew Waller boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Andrew Waller boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Elizabeth Scott boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Elizabeth Scott boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Tiffany Hayes boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Passenger Tiffany Hayes boarded the plane.
+2025-03-01 18:46:55,019 - INFO - Jeffrey Williams boarded the plane.
+2025-03-01 18:46:55,035 - INFO - Passenger Jeffrey Williams boarded the plane.
+2025-03-01 18:46:55,035 - INFO - Andrea Harris boarded the plane.
+2025-03-01 18:46:55,035 - INFO - Passenger Andrea Harris boarded the plane.
+2025-03-01 18:46:55,035 - INFO - Taylor Fitzgerald boarded the plane.
+2025-03-01 18:46:55,035 - INFO - Passenger Taylor Fitzgerald boarded the plane.
+2025-03-01 18:46:55,035 - INFO - Brittany Ayala boarded the plane.
+2025-03-01 18:46:55,035 - INFO - Passenger Brittany Ayala boarded the plane.
+2025-03-01 18:46:55,035 - INFO - Patrick Daniel boarded the plane.
+2025-03-01 18:46:55,038 - INFO - Passenger Patrick Daniel boarded the plane.
+2025-03-01 18:46:55,038 - INFO - Cheryl Walker boarded the plane.
+2025-03-01 18:46:55,038 - INFO - Passenger Cheryl Walker boarded the plane.
+2025-03-01 18:46:55,038 - INFO - Joseph Hernandez boarded the plane.
+2025-03-01 18:46:55,038 - INFO - Passenger Joseph Hernandez boarded the plane.
+2025-03-01 18:46:55,039 - INFO - Brian Lopez boarded the plane.
+2025-03-01 18:46:55,039 - INFO - Passenger Brian Lopez boarded the plane.
+2025-03-01 18:46:55,039 - INFO - Tiffany Moran boarded the plane.
+2025-03-01 18:46:55,039 - INFO - Passenger Tiffany Moran boarded the plane.
+2025-03-01 18:46:55,039 - INFO - Andrew Blake boarded the plane.
+2025-03-01 18:46:55,039 - INFO - Passenger Andrew Blake boarded the plane.
+2025-03-01 18:46:55,039 - INFO - Pamela Smith boarded the plane.
+2025-03-01 18:46:55,039 - INFO - Passenger Pamela Smith boarded the plane.
+2025-03-01 18:46:55,039 - INFO - Reginald Ross boarded the plane.
+2025-03-01 18:46:55,040 - INFO - Passenger Reginald Ross boarded the plane.
+2025-03-01 18:46:55,040 - INFO - Sabrina Orozco boarded the plane.
+2025-03-01 18:46:55,040 - INFO - Passenger Sabrina Orozco boarded the plane.
+2025-03-01 18:46:55,040 - INFO - Stephanie Ray boarded the plane.
+2025-03-01 18:46:55,040 - INFO - Passenger Stephanie Ray boarded the plane.
+2025-03-01 18:46:55,040 - INFO - Todd Martinez boarded the plane.
+2025-03-01 18:46:55,040 - INFO - Passenger Todd Martinez boarded the plane.
+2025-03-01 18:46:55,040 - INFO - Darryl Williams boarded the plane.
+2025-03-01 18:46:55,040 - INFO - Passenger Darryl Williams boarded the plane.
+2025-03-01 18:46:55,041 - INFO - Paul Patton boarded the plane.
+2025-03-01 18:46:55,041 - INFO - Passenger Paul Patton boarded the plane.
+2025-03-01 18:46:55,041 - INFO - Mark Dean boarded the plane.
+2025-03-01 18:46:55,041 - INFO - Passenger Mark Dean boarded the plane.
+2025-03-01 18:46:55,041 - INFO - Mason Rubio boarded the plane.
+2025-03-01 18:46:55,041 - INFO - Passenger Mason Rubio boarded the plane.
+2025-03-01 18:46:55,041 - INFO - Sarah Allen boarded the plane.
+2025-03-01 18:46:55,041 - INFO - Passenger Sarah Allen boarded the plane.
+2025-03-01 18:46:55,041 - INFO - Mary Vaughan boarded the plane.
+2025-03-01 18:46:55,042 - INFO - Passenger Mary Vaughan boarded the plane.
+2025-03-01 18:46:55,042 - INFO - David Ryan boarded the plane.
+2025-03-01 18:46:55,042 - INFO - Passenger David Ryan boarded the plane.
+2025-03-01 18:46:55,042 - INFO - Robert Johnson boarded the plane.
+2025-03-01 18:46:55,042 - INFO - Passenger Robert Johnson boarded the plane.
+2025-03-01 18:46:55,042 - INFO - Bobby Brooks boarded the plane.
+2025-03-01 18:46:55,042 - INFO - Passenger Bobby Brooks boarded the plane.
+2025-03-01 18:46:55,042 - INFO - Terry Herrera boarded the plane.
+2025-03-01 18:46:55,043 - INFO - Passenger Terry Herrera boarded the plane.
+2025-03-01 18:46:55,043 - INFO - Mark Vincent boarded the plane.
+2025-03-01 18:46:55,043 - INFO - Passenger Mark Vincent boarded the plane.
+2025-03-01 18:46:55,043 - INFO - Brittany Alexander boarded the plane.
+2025-03-01 18:46:55,043 - INFO - Passenger Brittany Alexander boarded the plane.
+2025-03-01 18:46:55,043 - INFO - Teresa Perry boarded the plane.
+2025-03-01 18:46:55,043 - INFO - Passenger Teresa Perry boarded the plane.
+2025-03-01 18:46:55,043 - INFO - Alice Rodriguez boarded the plane.
+2025-03-01 18:46:55,043 - INFO - Passenger Alice Rodriguez boarded the plane.
+2025-03-01 18:46:55,044 - INFO - Julie Wilson boarded the plane.
+2025-03-01 18:46:55,044 - INFO - Passenger Julie Wilson boarded the plane.
+2025-03-01 18:46:55,044 - INFO - Douglas Smith boarded the plane.
+2025-03-01 18:46:55,044 - INFO - Passenger Douglas Smith boarded the plane.
+2025-03-01 18:46:55,044 - INFO - Matthew Campbell boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Matthew Campbell boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Amy Reynolds boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Amy Reynolds boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Leslie Martin boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Leslie Martin boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Kathleen French boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Kathleen French boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Rachel Collins boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Rachel Collins boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Ryan Murphy boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Ryan Murphy boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Kristen Park boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Kristen Park boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Tonya Wilson boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Tonya Wilson boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Victor Dawson boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Victor Dawson boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Toni Greene boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Toni Greene boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Ronald Clark boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Ronald Clark boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Rachel Harris boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Rachel Harris boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Julian King boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Julian King boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Cheryl Olson boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Passenger Cheryl Olson boarded the plane.
+2025-03-01 18:46:55,045 - INFO - Deborah Zuniga boarded the plane.
+2025-03-01 18:46:55,049 - INFO - Passenger Deborah Zuniga boarded the plane.
+2025-03-01 18:46:55,049 - INFO - Vanessa Bell boarded the plane.
+2025-03-01 18:46:55,049 - INFO - Passenger Vanessa Bell boarded the plane.
+2025-03-01 18:46:55,049 - INFO - Michelle Potter boarded the plane.
+2025-03-01 18:46:55,049 - INFO - Passenger Michelle Potter boarded the plane.
+2025-03-01 18:46:55,049 - INFO - Dustin Huynh boarded the plane.
+2025-03-01 18:46:55,050 - INFO - Passenger Dustin Huynh boarded the plane.
+2025-03-01 18:46:55,050 - INFO - Dana Simmons boarded the plane.
+2025-03-01 18:46:55,050 - INFO - Passenger Dana Simmons boarded the plane.
+2025-03-01 18:46:55,050 - INFO - Kurt Mcdowell boarded the plane.
+2025-03-01 18:46:55,050 - INFO - Passenger Kurt Mcdowell boarded the plane.
+2025-03-01 18:46:55,050 - INFO - Philip Anderson boarded the plane.
+2025-03-01 18:46:55,050 - INFO - Passenger Philip Anderson boarded the plane.
+2025-03-01 18:46:55,050 - INFO - John Obrien boarded the plane.
+2025-03-01 18:46:55,051 - INFO - Passenger John Obrien boarded the plane.
+2025-03-01 18:46:55,051 - INFO - Kenneth Dillon boarded the plane.
+2025-03-01 18:46:55,051 - INFO - Passenger Kenneth Dillon boarded the plane.
+2025-03-01 18:46:55,051 - INFO - Nathan Perry boarded the plane.
+2025-03-01 18:46:55,051 - INFO - Passenger Nathan Perry boarded the plane.
+2025-03-01 18:46:55,051 - INFO - Laura Schmidt boarded the plane.
+2025-03-01 18:46:55,051 - INFO - Passenger Laura Schmidt boarded the plane.
+2025-03-01 18:46:55,098 - INFO - 1. Passenger: Joel Bates boarded the plane.
+2025-03-01 18:46:55,142 - INFO - 2. Passenger: Nicole Bond boarded the plane.
+2025-03-01 18:46:55,198 - INFO - 3. Passenger: Taylor Hodges MD boarded the plane.
+2025-03-01 18:46:55,228 - INFO - 4. Passenger: Kayla Gibbs boarded the plane.
+2025-03-01 18:46:55,276 - INFO - 5. Passenger: Brianna Ibarra boarded the plane.
+2025-03-01 18:46:55,307 - INFO - 6. Passenger: Aaron Hernandez boarded the plane.
+2025-03-01 18:46:55,328 - INFO - 7. Passenger: Amanda Cooper boarded the plane.
+2025-03-01 18:46:55,353 - INFO - 8. Passenger: Peter Hinton boarded the plane.
+2025-03-01 18:46:55,382 - INFO - 9. Passenger: Andrew Aguilar boarded the plane.
+2025-03-01 18:46:55,412 - INFO - 10. Passenger: Daniel Smith boarded the plane.
+2025-03-01 18:46:55,437 - INFO - 11. Passenger: Scott Kline boarded the plane.
+2025-03-01 18:46:55,463 - INFO - 12. Passenger: Brenda Soto boarded the plane.
+2025-03-01 18:46:55,492 - INFO - 13. Passenger: Cynthia Carr boarded the plane.
+2025-03-01 18:46:55,517 - INFO - 14. Passenger: Ashley Sherman boarded the plane.
+2025-03-01 18:46:55,544 - INFO - 15. Passenger: Christopher Foley boarded the plane.
+2025-03-01 18:46:55,564 - INFO - 16. Passenger: Matthew Scott boarded the plane.
+2025-03-01 18:46:55,591 - INFO - 17. Passenger: Curtis Kim boarded the plane.
+2025-03-01 18:46:55,620 - INFO - 18. Passenger: Richard Skinner boarded the plane.
+2025-03-01 18:46:55,671 - INFO - 19. Passenger: Randy Simmons boarded the plane.
+2025-03-01 18:46:55,696 - INFO - 20. Passenger: Brandon Howard boarded the plane.
+2025-03-01 18:46:55,724 - INFO - 21. Passenger: Andrew Waller boarded the plane.
+2025-03-01 18:46:55,747 - INFO - 22. Passenger: Elizabeth Scott boarded the plane.
+2025-03-01 18:46:55,771 - INFO - 23. Passenger: Tiffany Hayes boarded the plane.
+2025-03-01 18:46:55,795 - INFO - 24. Passenger: Jeffrey Williams boarded the plane.
+2025-03-01 18:46:55,828 - INFO - 25. Passenger: Andrea Harris boarded the plane.
+2025-03-01 18:46:55,855 - INFO - 26. Passenger: Taylor Fitzgerald boarded the plane.
+2025-03-01 18:46:55,878 - INFO - 27. Passenger: Brittany Ayala boarded the plane.
+2025-03-01 18:46:55,906 - INFO - 28. Passenger: Patrick Daniel boarded the plane.
+2025-03-01 18:46:55,938 - INFO - 29. Passenger: Cheryl Walker boarded the plane.
+2025-03-01 18:46:55,965 - INFO - 30. Passenger: Joseph Hernandez boarded the plane.
+2025-03-01 18:46:55,993 - INFO - 31. Passenger: Brian Lopez boarded the plane.
+2025-03-01 18:46:56,026 - INFO - 32. Passenger: Tiffany Moran boarded the plane.
+2025-03-01 18:46:56,056 - INFO - 33. Passenger: Andrew Blake boarded the plane.
+2025-03-01 18:46:56,079 - INFO - 34. Passenger: Pamela Smith boarded the plane.
+2025-03-01 18:46:56,100 - INFO - 35. Passenger: Reginald Ross boarded the plane.
+2025-03-01 18:46:56,130 - INFO - 36. Passenger: Sabrina Orozco boarded the plane.
+2025-03-01 18:46:56,153 - INFO - 37. Passenger: Stephanie Ray boarded the plane.
+2025-03-01 18:46:56,177 - INFO - 38. Passenger: Todd Martinez boarded the plane.
+2025-03-01 18:46:56,201 - INFO - 39. Passenger: Darryl Williams boarded the plane.
+2025-03-01 18:46:56,230 - INFO - 40. Passenger: Paul Patton boarded the plane.
+2025-03-01 18:46:56,267 - INFO - 41. Passenger: Mark Dean boarded the plane.
+2025-03-01 18:46:56,298 - INFO - 42. Passenger: Mason Rubio boarded the plane.
+2025-03-01 18:46:56,326 - INFO - 43. Passenger: Sarah Allen boarded the plane.
+2025-03-01 18:46:56,358 - INFO - 44. Passenger: Mary Vaughan boarded the plane.
+2025-03-01 18:46:56,400 - INFO - 45. Passenger: David Ryan boarded the plane.
+2025-03-01 18:46:56,461 - INFO - 46. Passenger: Robert Johnson boarded the plane.
+2025-03-01 18:46:56,513 - INFO - 47. Passenger: Bobby Brooks boarded the plane.
+2025-03-01 18:46:56,555 - INFO - 48. Passenger: Terry Herrera boarded the plane.
+2025-03-01 18:46:56,577 - INFO - 49. Passenger: Mark Vincent boarded the plane.
+2025-03-01 18:46:56,625 - INFO - 50. Passenger: Brittany Alexander boarded the plane.
+2025-03-01 18:46:56,660 - INFO - 51. Passenger: Teresa Perry boarded the plane.
+2025-03-01 18:46:56,685 - INFO - 52. Passenger: Alice Rodriguez boarded the plane.
+2025-03-01 18:46:56,916 - INFO - 53. Passenger: Julie Wilson boarded the plane.
+2025-03-01 18:46:57,052 - INFO - 54. Passenger: Douglas Smith boarded the plane.
+2025-03-01 18:46:57,141 - INFO - 55. Passenger: Matthew Campbell boarded the plane.
+2025-03-01 18:46:57,192 - INFO - 56. Passenger: Amy Reynolds boarded the plane.
+2025-03-01 18:46:57,244 - INFO - 57. Passenger: Leslie Martin boarded the plane.
+2025-03-01 18:46:57,299 - INFO - 58. Passenger: Kathleen French boarded the plane.
+2025-03-01 18:46:57,398 - INFO - 59. Passenger: Rachel Collins boarded the plane.
+2025-03-01 18:46:57,445 - INFO - 60. Passenger: Ryan Murphy boarded the plane.
+2025-03-01 18:46:57,480 - INFO - 61. Passenger: Kristen Park boarded the plane.
+2025-03-01 18:46:57,511 - INFO - 62. Passenger: Tonya Wilson boarded the plane.
+2025-03-01 18:46:57,535 - INFO - 63. Passenger: Victor Dawson boarded the plane.
+2025-03-01 18:46:57,569 - INFO - 64. Passenger: Toni Greene boarded the plane.
+2025-03-01 18:46:57,596 - INFO - 65. Passenger: Ronald Clark boarded the plane.
+2025-03-01 18:46:57,646 - INFO - 66. Passenger: Rachel Harris boarded the plane.
+2025-03-01 18:46:57,696 - INFO - 67. Passenger: Julian King boarded the plane.
+2025-03-01 18:46:57,752 - INFO - 68. Passenger: Cheryl Olson boarded the plane.
+2025-03-01 18:46:57,788 - INFO - 69. Passenger: Deborah Zuniga boarded the plane.
+2025-03-01 18:46:57,833 - INFO - 70. Passenger: Vanessa Bell boarded the plane.
+2025-03-01 18:46:57,907 - INFO - 71. Passenger: Michelle Potter boarded the plane.
+2025-03-01 18:46:58,044 - INFO - 72. Passenger: Dustin Huynh boarded the plane.
+2025-03-01 18:46:58,082 - INFO - 73. Passenger: Dana Simmons boarded the plane.
+2025-03-01 18:46:58,121 - INFO - 74. Passenger: Kurt Mcdowell boarded the plane.
+2025-03-01 18:46:58,161 - INFO - 75. Passenger: Philip Anderson boarded the plane.
+2025-03-01 18:46:58,204 - INFO - 76. Passenger: John Obrien boarded the plane.
+2025-03-01 18:46:58,280 - INFO - 77. Passenger: Kenneth Dillon boarded the plane.
+2025-03-01 18:46:58,332 - INFO - 78. Passenger: Nathan Perry boarded the plane.
+2025-03-01 18:46:58,360 - INFO - 79. Passenger: Laura Schmidt boarded the plane.
+2025-03-01 18:46:58,360 - INFO - Plane is taking off.
+2025-03-01 18:46:58,361 - INFO - Take off successful. Passenger count: 79
+2025-03-01 18:46:58,361 - INFO - Increasing speed.
+2025-03-01 18:46:58,362 - DEBUG - Generating a random speed between 600 and 900.
+2025-03-01 18:46:58,362 - DEBUG - Generated speed: 681
+2025-03-01 18:46:58,363 - INFO - Starting to increase speed to 681 km/h.
+2025-03-01 18:47:23,698 - INFO - Starting to decrease speed.
+2025-03-01 18:47:49,027 - INFO - Speed decreased to 0 km/h.
+2025-03-01 18:47:49,027 - INFO - Decreasing speed.
+2025-03-01 18:47:49,027 - INFO - Starting to decrease speed.
+2025-03-01 18:47:49,027 - INFO - Speed decreased to 0 km/h.
+2025-03-01 18:47:49,027 - INFO - Plane is landing.
+2025-03-01 18:47:49,027 - INFO - Plane has landed. Speed set to 0.
+2025-03-01 18:47:49,068 - INFO - Mason Rubio has been removed from the plane.
+2025-03-01 18:47:49,068 - INFO - Passenger Mason Rubio got off the plane.
+2025-03-01 18:47:49,096 - INFO - Todd Martinez has been removed from the plane.
+2025-03-01 18:47:49,096 - INFO - Passenger Todd Martinez got off the plane.
+2025-03-01 18:47:49,127 - INFO - Tiffany Moran has been removed from the plane.
+2025-03-01 18:47:49,127 - INFO - Passenger Tiffany Moran got off the plane.
+2025-03-01 18:47:49,154 - INFO - Laura Schmidt has been removed from the plane.
+2025-03-01 18:47:49,155 - INFO - Passenger Laura Schmidt got off the plane.
+2025-03-01 18:47:49,168 - INFO - Matthew Campbell has been removed from the plane.
+2025-03-01 18:47:49,168 - INFO - Passenger Matthew Campbell got off the plane.
+2025-03-01 18:47:49,197 - INFO - Stephanie Ray has been removed from the plane.
+2025-03-01 18:47:49,197 - INFO - Passenger Stephanie Ray got off the plane.
+2025-03-01 18:47:49,225 - INFO - Brianna Ibarra has been removed from the plane.
+2025-03-01 18:47:49,225 - INFO - Passenger Brianna Ibarra got off the plane.
+2025-03-01 18:47:49,236 - INFO - Andrew Aguilar has been removed from the plane.
+2025-03-01 18:47:49,236 - INFO - Passenger Andrew Aguilar got off the plane.
+2025-03-01 18:47:49,269 - INFO - Julian King has been removed from the plane.
+2025-03-01 18:47:49,269 - INFO - Passenger Julian King got off the plane.
+2025-03-01 18:47:49,296 - INFO - Christopher Foley has been removed from the plane.
+2025-03-01 18:47:49,296 - INFO - Passenger Christopher Foley got off the plane.
+2025-03-01 18:47:49,319 - INFO - Victor Dawson has been removed from the plane.
+2025-03-01 18:47:49,322 - INFO - Passenger Victor Dawson got off the plane.
+2025-03-01 18:47:49,346 - INFO - Nicole Bond has been removed from the plane.
+2025-03-01 18:47:49,346 - INFO - Passenger Nicole Bond got off the plane.
+2025-03-01 18:47:49,369 - INFO - Ronald Clark has been removed from the plane.
+2025-03-01 18:47:49,369 - INFO - Passenger Ronald Clark got off the plane.
+2025-03-01 18:47:49,386 - INFO - Andrew Waller has been removed from the plane.
+2025-03-01 18:47:49,386 - INFO - Passenger Andrew Waller got off the plane.
+2025-03-01 18:47:49,415 - INFO - Peter Hinton has been removed from the plane.
+2025-03-01 18:47:49,415 - INFO - Passenger Peter Hinton got off the plane.
+2025-03-01 18:47:49,446 - INFO - Pamela Smith has been removed from the plane.
+2025-03-01 18:47:49,446 - INFO - Passenger Pamela Smith got off the plane.
+2025-03-01 18:47:49,469 - INFO - Amy Reynolds has been removed from the plane.
+2025-03-01 18:47:49,469 - INFO - Passenger Amy Reynolds got off the plane.
+2025-03-01 18:47:49,494 - INFO - Brandon Howard has been removed from the plane.
+2025-03-01 18:47:49,494 - INFO - Passenger Brandon Howard got off the plane.
+2025-03-01 18:47:49,503 - INFO - Patrick Daniel has been removed from the plane.
+2025-03-01 18:47:49,503 - INFO - Passenger Patrick Daniel got off the plane.
+2025-03-01 18:47:49,536 - INFO - Curtis Kim has been removed from the plane.
+2025-03-01 18:47:49,536 - INFO - Passenger Curtis Kim got off the plane.
+2025-03-01 18:47:49,565 - INFO - Michelle Potter has been removed from the plane.
+2025-03-01 18:47:49,565 - INFO - Passenger Michelle Potter got off the plane.
+2025-03-01 18:47:49,591 - INFO - Dustin Huynh has been removed from the plane.
+2025-03-01 18:47:49,591 - INFO - Passenger Dustin Huynh got off the plane.
+2025-03-01 18:47:49,613 - INFO - Randy Simmons has been removed from the plane.
+2025-03-01 18:47:49,613 - INFO - Passenger Randy Simmons got off the plane.
+2025-03-01 18:47:49,620 - INFO - Mary Vaughan has been removed from the plane.
+2025-03-01 18:47:49,637 - INFO - Passenger Mary Vaughan got off the plane.
+2025-03-01 18:47:49,654 - INFO - Bobby Brooks has been removed from the plane.
+2025-03-01 18:47:49,654 - INFO - Passenger Bobby Brooks got off the plane.
+2025-03-01 18:47:49,683 - INFO - Joseph Hernandez has been removed from the plane.
+2025-03-01 18:47:49,683 - INFO - Passenger Joseph Hernandez got off the plane.
+2025-03-01 18:47:49,712 - INFO - Andrea Harris has been removed from the plane.
+2025-03-01 18:47:49,712 - INFO - Passenger Andrea Harris got off the plane.
+2025-03-01 18:47:49,738 - INFO - Rachel Collins has been removed from the plane.
+2025-03-01 18:47:49,738 - INFO - Passenger Rachel Collins got off the plane.
+2025-03-01 18:47:49,762 - INFO - Dana Simmons has been removed from the plane.
+2025-03-01 18:47:49,763 - INFO - Passenger Dana Simmons got off the plane.
+2025-03-01 18:47:49,786 - INFO - Paul Patton has been removed from the plane.
+2025-03-01 18:47:49,788 - INFO - Passenger Paul Patton got off the plane.
+2025-03-01 18:47:49,921 - INFO - Vanessa Bell has been removed from the plane.
+2025-03-01 18:47:49,921 - INFO - Passenger Vanessa Bell got off the plane.
+2025-03-01 18:47:49,995 - INFO - Elizabeth Scott has been removed from the plane.
+2025-03-01 18:47:49,995 - INFO - Passenger Elizabeth Scott got off the plane.
+2025-03-01 18:47:50,050 - INFO - Leslie Martin has been removed from the plane.
+2025-03-01 18:47:50,050 - INFO - Passenger Leslie Martin got off the plane.
+2025-03-01 18:47:50,076 - INFO - Kenneth Dillon has been removed from the plane.
+2025-03-01 18:47:50,076 - INFO - Passenger Kenneth Dillon got off the plane.
+2025-03-01 18:47:50,101 - INFO - Matthew Scott has been removed from the plane.
+2025-03-01 18:47:50,101 - INFO - Passenger Matthew Scott got off the plane.
+2025-03-01 18:47:50,132 - INFO - Nathan Perry has been removed from the plane.
+2025-03-01 18:47:50,132 - INFO - Passenger Nathan Perry got off the plane.
+2025-03-01 18:47:50,155 - INFO - Julie Wilson has been removed from the plane.
+2025-03-01 18:47:50,155 - INFO - Passenger Julie Wilson got off the plane.
+2025-03-01 18:47:50,181 - INFO - Alice Rodriguez has been removed from the plane.
+2025-03-01 18:47:50,181 - INFO - Passenger Alice Rodriguez got off the plane.
+2025-03-01 18:47:50,207 - INFO - Rachel Harris has been removed from the plane.
+2025-03-01 18:47:50,207 - INFO - Passenger Rachel Harris got off the plane.
+2025-03-01 18:47:50,232 - INFO - Teresa Perry has been removed from the plane.
+2025-03-01 18:47:50,232 - INFO - Passenger Teresa Perry got off the plane.
+2025-03-01 18:47:50,255 - INFO - Taylor Hodges MD has been removed from the plane.
+2025-03-01 18:47:50,255 - INFO - Passenger Taylor Hodges MD got off the plane.
+2025-03-01 18:47:50,278 - INFO - Darryl Williams has been removed from the plane.
+2025-03-01 18:47:50,278 - INFO - Passenger Darryl Williams got off the plane.
+2025-03-01 18:47:50,298 - INFO - Brittany Alexander has been removed from the plane.
+2025-03-01 18:47:50,298 - INFO - Passenger Brittany Alexander got off the plane.
+2025-03-01 18:47:50,321 - INFO - Brian Lopez has been removed from the plane.
+2025-03-01 18:47:50,321 - INFO - Passenger Brian Lopez got off the plane.
+2025-03-01 18:47:50,358 - INFO - Kayla Gibbs has been removed from the plane.
+2025-03-01 18:47:50,358 - INFO - Passenger Kayla Gibbs got off the plane.
+2025-03-01 18:47:50,375 - INFO - Philip Anderson has been removed from the plane.
+2025-03-01 18:47:50,375 - INFO - Passenger Philip Anderson got off the plane.
+2025-03-01 18:47:50,401 - INFO - Kristen Park has been removed from the plane.
+2025-03-01 18:47:50,401 - INFO - Passenger Kristen Park got off the plane.
+2025-03-01 18:47:50,431 - INFO - Brittany Ayala has been removed from the plane.
+2025-03-01 18:47:50,431 - INFO - Passenger Brittany Ayala got off the plane.
+2025-03-01 18:47:50,450 - INFO - Toni Greene has been removed from the plane.
+2025-03-01 18:47:50,450 - INFO - Passenger Toni Greene got off the plane.
+2025-03-01 18:47:50,481 - INFO - Ashley Sherman has been removed from the plane.
+2025-03-01 18:47:50,481 - INFO - Passenger Ashley Sherman got off the plane.
+2025-03-01 18:47:50,499 - INFO - Sabrina Orozco has been removed from the plane.
+2025-03-01 18:47:50,499 - INFO - Passenger Sabrina Orozco got off the plane.
+2025-03-01 18:47:50,532 - INFO - Aaron Hernandez has been removed from the plane.
+2025-03-01 18:47:50,532 - INFO - Passenger Aaron Hernandez got off the plane.
+2025-03-01 18:47:50,558 - INFO - Sarah Allen has been removed from the plane.
+2025-03-01 18:47:50,558 - INFO - Passenger Sarah Allen got off the plane.
+2025-03-01 18:47:50,582 - INFO - Cheryl Walker has been removed from the plane.
+2025-03-01 18:47:50,583 - INFO - Passenger Cheryl Walker got off the plane.
+2025-03-01 18:47:50,606 - INFO - Douglas Smith has been removed from the plane.
+2025-03-01 18:47:50,607 - INFO - Passenger Douglas Smith got off the plane.
+2025-03-01 18:47:50,628 - INFO - Terry Herrera has been removed from the plane.
+2025-03-01 18:47:50,628 - INFO - Passenger Terry Herrera got off the plane.
+2025-03-01 18:47:50,657 - INFO - Mark Dean has been removed from the plane.
+2025-03-01 18:47:50,657 - INFO - Passenger Mark Dean got off the plane.
+2025-03-01 18:47:50,683 - INFO - Cynthia Carr has been removed from the plane.
+2025-03-01 18:47:50,683 - INFO - Passenger Cynthia Carr got off the plane.
+2025-03-01 18:47:50,709 - INFO - Tiffany Hayes has been removed from the plane.
+2025-03-01 18:47:50,709 - INFO - Passenger Tiffany Hayes got off the plane.
+2025-03-01 18:47:50,727 - INFO - Brenda Soto has been removed from the plane.
+2025-03-01 18:47:50,727 - INFO - Passenger Brenda Soto got off the plane.
+2025-03-01 18:47:50,760 - INFO - John Obrien has been removed from the plane.
+2025-03-01 18:47:50,760 - INFO - Passenger John Obrien got off the plane.
+2025-03-01 18:47:50,784 - INFO - Joel Bates has been removed from the plane.
+2025-03-01 18:47:50,784 - INFO - Passenger Joel Bates got off the plane.
+2025-03-01 18:47:50,808 - INFO - Reginald Ross has been removed from the plane.
+2025-03-01 18:47:50,808 - INFO - Passenger Reginald Ross got off the plane.
+2025-03-01 18:47:50,836 - INFO - Tonya Wilson has been removed from the plane.
+2025-03-01 18:47:50,836 - INFO - Passenger Tonya Wilson got off the plane.
+2025-03-01 18:47:50,865 - INFO - Taylor Fitzgerald has been removed from the plane.
+2025-03-01 18:47:50,865 - INFO - Passenger Taylor Fitzgerald got off the plane.
+2025-03-01 18:47:50,887 - INFO - Andrew Blake has been removed from the plane.
+2025-03-01 18:47:50,887 - INFO - Passenger Andrew Blake got off the plane.
+2025-03-01 18:47:50,916 - INFO - Amanda Cooper has been removed from the plane.
+2025-03-01 18:47:50,916 - INFO - Passenger Amanda Cooper got off the plane.
+2025-03-01 18:47:50,941 - INFO - Daniel Smith has been removed from the plane.
+2025-03-01 18:47:50,942 - INFO - Passenger Daniel Smith got off the plane.
+2025-03-01 18:47:50,972 - INFO - Mark Vincent has been removed from the plane.
+2025-03-01 18:47:50,972 - INFO - Passenger Mark Vincent got off the plane.
+2025-03-01 18:47:50,995 - INFO - Kathleen French has been removed from the plane.
+2025-03-01 18:47:50,995 - INFO - Passenger Kathleen French got off the plane.
+2025-03-01 18:47:51,020 - INFO - Deborah Zuniga has been removed from the plane.
+2025-03-01 18:47:51,020 - INFO - Passenger Deborah Zuniga got off the plane.
+2025-03-01 18:47:51,048 - INFO - Richard Skinner has been removed from the plane.
+2025-03-01 18:47:51,048 - INFO - Passenger Richard Skinner got off the plane.
+2025-03-01 18:47:51,070 - INFO - Jeffrey Williams has been removed from the plane.
+2025-03-01 18:47:51,070 - INFO - Passenger Jeffrey Williams got off the plane.
+2025-03-01 18:47:51,103 - INFO - David Ryan has been removed from the plane.
+2025-03-01 18:47:51,103 - INFO - Passenger David Ryan got off the plane.
+2025-03-01 18:47:51,129 - INFO - Robert Johnson has been removed from the plane.
+2025-03-01 18:47:51,129 - INFO - Passenger Robert Johnson got off the plane.
+2025-03-01 18:47:51,154 - INFO - Ryan Murphy has been removed from the plane.
+2025-03-01 18:47:51,154 - INFO - Passenger Ryan Murphy got off the plane.
+2025-03-01 18:47:51,182 - INFO - Scott Kline has been removed from the plane.
+2025-03-01 18:47:51,183 - INFO - Passenger Scott Kline got off the plane.
+2025-03-01 18:47:51,203 - INFO - Cheryl Olson has been removed from the plane.
+2025-03-01 18:47:51,203 - INFO - Passenger Cheryl Olson got off the plane.
+2025-03-01 18:47:51,227 - INFO - Kurt Mcdowell has been removed from the plane.
+2025-03-01 18:47:51,228 - INFO - Passenger Kurt Mcdowell got off the plane.
+2025-03-01 18:47:51,228 - INFO - All passengers have gotten off the plane.
