@@ -1,5 +1,6 @@
 import sys
 import os
+from typing import List
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
@@ -11,7 +12,22 @@ from plane_project import Plane
 plane_name, plane_capacity = get_random_plane()
 plane = Plane(plane_name, plane_capacity)
 passenger_count = random_passenger_count(plane_capacity)
-passenger_name = generate_fake_passengers(passenger_count)
+passenger_names = generate_fake_passengers(passenger_count)
 
-def plane_added_passenger():
-    return plane.add_passenger(passenger_name)
+def board_passengers(plane: Plane, passengers: List[str]) -> None:
+    """Boards the passengers onto the plane."""
+    for passenger in passengers:
+        plane.add_passenger(passenger)
+
+def display_boarded_passengers(plane: Plane) -> None:
+    """Displays the passengers who have boarded the plane."""
+    if not plane.passengers:
+        print("No passengers on board.")
+
+    for idx, passenger in enumerate(plane.passengers, start=1):
+        print(f"{idx}. Passenger: {passenger} boarded the plane.")
+
+
+# Board passengers and display the list
+board_passengers(plane, passenger_names)
+display_boarded_passengers(plane)
