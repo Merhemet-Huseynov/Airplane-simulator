@@ -64,7 +64,7 @@ def remove_random_passengers(plane: Plane, passengers: List[str]) -> None:
         passenger = random.choice(passengers)
         plane.remove_passenger(passenger)
         passengers.remove(passenger)
-        logging.info(f"Passenger {passenger} got off the plane.")
+        print(f"Passenger {passenger} got off the plane.")
         plane.current_status()
         print()
 
