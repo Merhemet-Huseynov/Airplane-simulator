@@ -1,51 +1,61 @@
 import sys
 import os
-import logging
 import pytest
-from typing import List, Tuple
+from unittest.mock import MagicMock
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from logging_info.logging_config import setup_logging
-from plane_data.random_plane_selector import get_random_plane
-from data import random_passenger_count, generate_fake_passengers  
-
-setup_logging()
-
-def mock_get_random_plane() -> Tuple[str, int]:
-    """
-    Mock function to simulate fetching a random plane and its capacity.
-    """
-    return "Mock Plane", 200
+from process.passenger import PassengerOperations
 
 @pytest.fixture
-def setup_mock(monkeypatch: pytest.MonkeyPatch) -> None:
+def mock_plane():
     """
-    Fixture to mock the get_random_plane function using monkeypatch.
+    Fixture to create a mock plane object with capacity and passengers.
     """
-    monkeypatch.setattr(
-        "plane_data.random_plane_selector.get_random_plane", 
-        mock_get_random_plane
-    )
+    mock_plane = MagicMock()
+    mock_plane.capacity = 3
+    mock_plane.passengers = []
+    return mock_plane
 
-def test_random_passenger_count(setup_mock: None) -> None:
+def test_add_passenger(mock_plane):
     """
-    Test the random passenger count generation to ensure it's within the 
-    acceptable range based on the plane capacity.
+    Test for adding a passenger to the plane.
+    Ensures that a passenger can board if there is enough capacity.
     """
-    plane_capacity = 200 
-    passengers = random_passenger_count(plane_capacity)
-    
-    assert 0.8 * plane_capacity <= passengers <= plane_capacity
-    logging.info(f"Tested random passenger count for plane capacity {plane_capacity}: {passengers}")
+    passenger_name = "John Doe"
+    result = PassengerOperations.add_passenger(mock_plane, passenger_name)
+    assert result == "John Doe boarded the plane."
+    assert passenger_name in mock_plane.passengers
 
-def test_generate_fake_passengers() -> None:
+def test_add_passenger_no_capacity(mock_plane):
     """
-    Test the generation of fake passengers to ensure the correct number 
-    of passengers is generated.
+    Test for adding a passenger when there is no capacity.
+    Ensures that an error message is returned when the plane is full.
     """
-    passenger_count = 10 
-    passengers = generate_fake_passengers(passenger_count)
-    
-    assert len(passengers) == passenger_count
-    logging.info(f"Tested fake passenger generation: {passengers}")
+    # Filling the plane to its capacity
+    mock_plane.passengers = ["Alice", "Bob", "Charlie"]
+    passenger_name = "John Doe"
+    result = PassengerOperations.add_passenger(mock_plane, passenger_name)
+    assert result == "Not enough capacity"
+    assert passenger_name not in mock_plane.passengers
+
+def test_remove_passenger(mock_plane):
+    """
+    Test for removing a passenger from the plane.
+    Ensures that a passenger can be removed if they are on board.
+    """
+    passenger_name = "John Doe"
+    mock_plane.passengers = [passenger_name]
+    result = PassengerOperations.remove_passenger(mock_plane, passenger_name)
+    assert result == "John Doe has been removed from the plane."
+    assert passenger_name not in mock_plane.passengers
+
+def test_remove_passenger_not_on_board(mock_plane):
+    """
+    Test for removing a passenger who is not on the plane.
+    Ensures that an error message is returned if the passenger is not on the plane.
+    """
+    passenger_name = "John Doe"
+    result = PassengerOperations.remove_passenger(mock_plane, passenger_name)
+    assert result == "John Doe is not on the plane."
+    assert passenger_name not in mock_plane.passengers
