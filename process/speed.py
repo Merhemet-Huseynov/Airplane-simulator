@@ -1,9 +1,16 @@
 import sys
 import os
+import time
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from data import max_speed
+
+def clear_terminal():
+    if os.name == "nt":
+        os.system("cls")
+    else:
+        os.system("clear")
 
 class SpeedOperations:
     @staticmethod
@@ -15,12 +22,15 @@ class SpeedOperations:
         it takes off.
         """
         target_speed = max_speed()
+        plane.is_flying = False
         while plane.speed < target_speed:
+            clear_terminal()
             if plane.speed >= 200 and not plane.is_flying:
                 plane.is_flying = True
                 print(f"The plane took off. Speed: {plane.speed} km/h")
             plane.speed += 9
-            print(f"Speed: {plane.speed} km/h")
+            plane.current_status()
+            time.sleep(0.5)
         
         print(f"Target speed of {target_speed} km/h reached!")
         # After reaching the max speed, start decreasing the speed
@@ -33,9 +43,12 @@ class SpeedOperations:
         If the speed goes below 200 km/h and the plane is flying, it lands.
         """
         while plane.speed > 0:
+            clear_terminal()
             plane.speed -= 9
             if plane.speed < 200 and plane.is_flying:
                 plane.is_flying = False
                 print(f"The plane landed. Speed: {plane.speed} km/h")
             print(f"Speed: {plane.speed} km/h")
+            plane.current_status()
+            time.sleep(0.5)
         return f"Speed decreased to {plane.speed} km/h"

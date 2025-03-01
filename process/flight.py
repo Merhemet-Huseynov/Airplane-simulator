@@ -5,9 +5,11 @@ class FlightOperations:
         Attempts to make the plane take off by checking if there are passengers 
         and sufficient speed. Returns a message indicating the result.
         """
-        if len(plane.passengers) > 0 and plane.speed > 0:
+        passengers_count = len(plane.passengers)
+        
+        if passengers_count > 0:
             plane.is_flying = True
-            return "The plane is flying."
+            return f"The plane is ready to fly. Passenger count: {passengers_count}"
         
         return (
             "The plane cannot take off.\n"
