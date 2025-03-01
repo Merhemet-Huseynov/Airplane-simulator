@@ -1,8 +1,13 @@
 import random
+import os
+from typing import Tuple
 
-def get_random_plane():
+def get_random_plane() -> Tuple[str, int]:
+    """
+    Reads a file "planes.txt" and returns a random plane's name and its capacity.
+    """
     # Write the file path directly here
-    file_path = "plane_data/planes.txt"
+    file_path = os.path.join(os.path.dirname(__file__), "planes.txt")
 
     # Read the file
     with open(file_path, "r") as file:
@@ -20,4 +25,3 @@ def get_random_plane():
     # Return the plane name and capacity in separate variables
     plane_name, plane_capacity = random_plane
     return plane_name, plane_capacity
-

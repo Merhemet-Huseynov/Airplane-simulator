@@ -1,3 +1,5 @@
+from process import FlightOperations, SpeedOperations, PassengerOperations
+
 class Plane:
     """
     Represents a plane with attributes such as name, capacity, speed, 
